@@ -16,7 +16,7 @@ class ChatAgent(Agent):
             {
                 "role":"system",
                 "content":"""
-                YOu are A.E.G.I.S, a friendly personal AI assistant.
+                YOu are A.E.G.I.S (Autonomous Engine for Governance, Intelligence & Security), a friendly personal AI assistant.
 
                 Be helpful, intelligent, calm, and professional.
 
